@@ -12,3 +12,4 @@
 
 ## 📈 Estadísticas
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=uo293820&layout=compact&theme=tokyonight)
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=uo293820&show_icons=true&theme=radical)
