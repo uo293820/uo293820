@@ -1,7 +1,7 @@
 # ¡Hola! Soy Marcelo 👋
 
 ## 🚀 Sobre mí
-🎓 Estudiante de **Ingeniería Informática (Software)** en la Universidad de Oviedo.
+🎓 Estudiante de **Ingeniería Informática del Software** en la Universidad de Oviedo.
 
 ## 🛠️ Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
