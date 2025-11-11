@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marcelo Díez Domínguez 👋
+# ¡Hola! Soy Marcelo 👋
 
 ## 🚀 Sobre mí
 🎓 Estudiante de **Ingeniería Informática (Software)** en la Universidad de Oviedo.
